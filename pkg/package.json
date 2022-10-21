@@ -1,0 +1,12 @@
+{
+  "name": "web-http",
+  "version": "0.1.0",
+  "files": [
+    "web_http_bg.wasm",
+    "web_http.js",
+    "web_http.d.ts"
+  ],
+  "module": "web_http.js",
+  "types": "web_http.d.ts",
+  "sideEffects": false
+}
